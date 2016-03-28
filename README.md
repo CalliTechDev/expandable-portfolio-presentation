@@ -93,7 +93,7 @@ SAY SOMETHING HERE
 Please visit ou [Test Page](http://epp.calli.tech/) and see the project working:
 
 <span class="image">
-  <a href="http://mer.calli.tech/" title="link">
+  <a href="http://epp.calli.tech/" title="link">
     <img src="assets/add_link.png" alt="link" width="5%" height="5%" />
   </a>
 </span>
