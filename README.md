@@ -79,7 +79,7 @@
 
 ![alt tag](assets/screenshot1.png "Slider Preview")
 
-SAY SOMETHING HERE
+This project aims to develop a web page portfolios with 4 columns each of which corresponds to a project.
 
 ### Feature List
 
