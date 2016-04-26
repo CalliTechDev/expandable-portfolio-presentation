@@ -88,6 +88,10 @@ This project aims to develop a web page portfolios with 4 columns each of which 
 
 ### Project Information
 
+##### Buy
+
+[Templamatic](http://www.templamatic.com/templates/4347)
+
 ##### Test Page
 
 Please visit ou [Test Page](http://epp.calli.tech/) and see the project working:
