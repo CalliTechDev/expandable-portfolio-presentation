@@ -90,7 +90,7 @@ This project aims to develop a web page portfolios with 4 columns each of which 
 
 ##### Buy
 
-[Templamatic](http://www.templamatic.com/templates/4347)
+[Templamatic](https://www.templamatic.com/templates/4349)
 
 ##### Test Page
 
